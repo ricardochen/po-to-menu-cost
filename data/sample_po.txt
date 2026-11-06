@@ -1,0 +1,4 @@
+PO-2001 2026-10-01 Distribuidora Central
+TOM-001 Tomate 5000 g 1.85
+CHK-003 Pechuga de pollo 12 kg 5.40
+OIL-004 Aceite de oliva 4 L 9.95

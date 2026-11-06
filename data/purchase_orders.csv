@@ -1,0 +1,11 @@
+po_id,date,supplier,sku,description,qty,unit,unit_price
+PO-1001,2026-09-02,Distribuidora Central,TOM-001,Tomate,12,kg,1.85
+PO-1001,2026-09-02,Distribuidora Central,LET-002,Lechuga romana,8,kg,2.40
+PO-1001,2026-09-02,Distribuidora Central,CHK-003,Pechuga de pollo,15,kg,5.60
+PO-1001,2026-09-02,Distribuidora Central,OIL-004,Aceite de oliva,6,L,9.20
+PO-1001,2026-09-02,Distribuidora Central,CHS-005,Queso mozzarella,4,kg,8.10
+PO-1002,2026-09-16,Distribuidora Central,TOM-001,Tomate,5,kg,2.10
+PO-1002,2026-09-16,Distribuidora Central,LET-002,Lechuga romana,9,kg,2.55
+PO-1002,2026-09-16,Distribuidora Central,CHK-003,Pechuga de pollo,18,kg,5.20
+PO-1002,2026-09-16,Distribuidora Central,OIL-004,Aceite de oliva,6,L,9.80
+PO-1002,2026-09-16,Distribuidora Central,CHS-005,Queso mozzarella,5,kg,8.10
