@@ -1,5 +1,7 @@
 # PO → menu cost
 
+![tests](https://github.com/ricardochen/po-to-menu-cost/actions/workflows/tests.yml/badge.svg)
+
 Turn supplier purchase orders into **cost and margin per dish**, with a flag when a supplier price moves.
 
 ```
